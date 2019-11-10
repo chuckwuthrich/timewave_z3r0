@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EE3B1258-FEED-4819-B3C7-D88ECCFBFE62}</ProjectGuid>
+    <ProjectGuid>{9273926B-FF06-4C84-998B-73EDD99B9F59}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>twz_dotnet</RootNamespace>
-    <AssemblyName>twz_dotnet</AssemblyName>
+    <RootNamespace>timewave_z3r0_dotNET</RootNamespace>
+    <AssemblyName>timewave_z3r0_dotNET</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="twz-point.cs" />
+    <Compile Include="twzpoint.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
