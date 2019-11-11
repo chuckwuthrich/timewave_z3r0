@@ -53,6 +53,10 @@
     <Content Include="Source Files\twz-point.c" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="DATA\DATA.TW1" />
+    <None Include="DATA\DATA.TW2" />
+    <None Include="DATA\DATA.TW3" />
+    <None Include="DATA\DATA.TW4" />
     <None Include="Source Files\LICENSE" />
     <None Include="Source Files\Makefile" />
     <None Include="Source Files\README" />
