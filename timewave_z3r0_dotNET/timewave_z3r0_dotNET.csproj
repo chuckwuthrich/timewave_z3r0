@@ -45,18 +45,26 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Source Files\.gitignore" />
-    <Content Include="Source Files\datapoints-watkins.c" />
-    <Content Include="Source Files\SourceDocs.html" />
-    <Content Include="Source Files\twz-generator-threaded.c" />
-    <Content Include="Source Files\twz-generator.c" />
-    <Content Include="Source Files\twz-point.c" />
+    <None Include="Source Files\.gitignore" />
+    <None Include="Source Files\datapoints-watkins.c" />
+    <None Include="Source Files\SourceDocs.html" />
+    <None Include="Source Files\twz-generator-threaded.c" />
+    <None Include="Source Files\twz-generator.c" />
+    <None Include="Source Files\twz-point.c" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="DATA\DATA.TW1" />
-    <None Include="DATA\DATA.TW2" />
-    <None Include="DATA\DATA.TW3" />
-    <None Include="DATA\DATA.TW4" />
+    <Resource Include="DATA\DATA.TW1">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="DATA\DATA.TW2">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="DATA\DATA.TW3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="DATA\DATA.TW4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
     <None Include="Source Files\LICENSE" />
     <None Include="Source Files\Makefile" />
     <None Include="Source Files\README" />
