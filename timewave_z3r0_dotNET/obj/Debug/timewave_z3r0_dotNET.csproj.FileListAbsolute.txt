@@ -1,0 +1,6 @@
+C:\Users\chuck\source\repos\timewave_z3r0\timewave_z3r0_dotNet\bin\Debug\timewave_z3r0_dotNET.dll
+C:\Users\chuck\source\repos\timewave_z3r0\timewave_z3r0_dotNet\bin\Debug\timewave_z3r0_dotNET.pdb
+C:\Users\chuck\source\repos\timewave_z3r0\timewave_z3r0_dotNet\obj\Debug\timewave_z3r0_dotNET.csprojAssemblyReference.cache
+C:\Users\chuck\source\repos\timewave_z3r0\timewave_z3r0_dotNet\obj\Debug\timewave_z3r0_dotNET.g.resources
+C:\Users\chuck\source\repos\timewave_z3r0\timewave_z3r0_dotNet\obj\Debug\timewave_z3r0_dotNET.dll
+C:\Users\chuck\source\repos\timewave_z3r0\timewave_z3r0_dotNet\obj\Debug\timewave_z3r0_dotNET.pdb

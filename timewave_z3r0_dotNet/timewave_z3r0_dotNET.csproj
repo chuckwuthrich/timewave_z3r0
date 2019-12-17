@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DATA\ReadTWData.cs" />
     <Compile Include="twzpoint.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -48,7 +49,6 @@
     <None Include="Source Files\.gitignore" />
     <None Include="Source Files\datapoints-watkins.c" />
     <None Include="Source Files\SourceDocs.html" />
-    <None Include="Source Files\The_Mathematics_of_Timewave_Zero.pdf" />
     <None Include="Source Files\twz-generator-threaded.c" />
     <None Include="Source Files\twz-generator.c" />
     <None Include="Source Files\twz-point.c" />

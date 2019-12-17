@@ -1,0 +1,14 @@
+C:\Users\chuck\source\repos\timewave_z3r0\TimeWaveConsole\bin\Debug\netcoreapp3.0\TimeWaveConsole.exe
+C:\Users\chuck\source\repos\timewave_z3r0\TimeWaveConsole\bin\Debug\netcoreapp3.0\TimeWaveConsole.deps.json
+C:\Users\chuck\source\repos\timewave_z3r0\TimeWaveConsole\bin\Debug\netcoreapp3.0\TimeWaveConsole.runtimeconfig.json
+C:\Users\chuck\source\repos\timewave_z3r0\TimeWaveConsole\bin\Debug\netcoreapp3.0\TimeWaveConsole.runtimeconfig.dev.json
+C:\Users\chuck\source\repos\timewave_z3r0\TimeWaveConsole\bin\Debug\netcoreapp3.0\TimeWaveConsole.dll
+C:\Users\chuck\source\repos\timewave_z3r0\TimeWaveConsole\bin\Debug\netcoreapp3.0\TimeWaveConsole.pdb
+C:\Users\chuck\source\repos\timewave_z3r0\TimeWaveConsole\bin\Debug\netcoreapp3.0\timewave_z3r0_dotNET.dll
+C:\Users\chuck\source\repos\timewave_z3r0\TimeWaveConsole\bin\Debug\netcoreapp3.0\timewave_z3r0_dotNET.pdb
+C:\Users\chuck\source\repos\timewave_z3r0\TimeWaveConsole\obj\Debug\netcoreapp3.0\TimeWaveConsole.csprojAssemblyReference.cache
+C:\Users\chuck\source\repos\timewave_z3r0\TimeWaveConsole\obj\Debug\netcoreapp3.0\TimeWaveConsole.AssemblyInfoInputs.cache
+C:\Users\chuck\source\repos\timewave_z3r0\TimeWaveConsole\obj\Debug\netcoreapp3.0\TimeWaveConsole.AssemblyInfo.cs
+C:\Users\chuck\source\repos\timewave_z3r0\TimeWaveConsole\obj\Debug\netcoreapp3.0\TimeWaveConsole.csproj.CopyComplete
+C:\Users\chuck\source\repos\timewave_z3r0\TimeWaveConsole\obj\Debug\netcoreapp3.0\TimeWaveConsole.dll
+C:\Users\chuck\source\repos\timewave_z3r0\TimeWaveConsole\obj\Debug\netcoreapp3.0\TimeWaveConsole.pdb

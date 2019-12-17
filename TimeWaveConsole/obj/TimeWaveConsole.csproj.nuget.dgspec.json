@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\chuck\\source\\repos\\timewave_z3r0\\TimeWaveConsole\\TimeWaveConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\chuck\\source\\repos\\timewave_z3r0\\TimeWaveConsole\\TimeWaveConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chuck\\source\\repos\\timewave_z3r0\\TimeWaveConsole\\TimeWaveConsole.csproj",
+        "projectName": "TimeWaveConsole",
+        "projectPath": "C:\\Users\\chuck\\source\\repos\\timewave_z3r0\\TimeWaveConsole\\TimeWaveConsole.csproj",
+        "packagesPath": "C:\\Users\\chuck\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chuck\\source\\repos\\timewave_z3r0\\TimeWaveConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chuck\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\chuck\\source\\repos\\timewave_z3r0\\timewave_z3r0_dotNet\\timewave_z3r0_dotNET.csproj": {
+                "projectPath": "C:\\Users\\chuck\\source\\repos\\timewave_z3r0\\timewave_z3r0_dotNet\\timewave_z3r0_dotNET.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chuck\\source\\repos\\timewave_z3r0\\timewave_z3r0_dotNet\\timewave_z3r0_dotNET.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chuck\\source\\repos\\timewave_z3r0\\timewave_z3r0_dotNet\\timewave_z3r0_dotNET.csproj",
+        "projectName": "timewave_z3r0_dotNET",
+        "projectPath": "C:\\Users\\chuck\\source\\repos\\timewave_z3r0\\timewave_z3r0_dotNet\\timewave_z3r0_dotNET.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
